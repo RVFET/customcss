@@ -1,0 +1,40 @@
+:root {
+    /* WHITE */
+    --white : #ecf0f1;
+    --white-alt : #bdc3c7;
+    /* AQUA */
+    --aqua : #1abc9c;
+    --aqua-dark : #16a085;
+    /* GREEN */
+    --green : #2ecc71;
+    --green-dark : #27ae60;
+    /* BLUE */
+    --blue : #3498db;
+    --blue-dark : #2980b9;
+    /* PURPLE */
+    --purple : #9b59b6;
+    --purple-dark : #8e44ad;
+    /* GRAY */
+    --gray : #7f8c8d;
+    --gray-alt : #95a5a6;
+    --light-gray : #bdc3c7;
+    --dark-gray : #2c3e50;
+    /* YELLOW */
+    --yellow : #f1c40f;
+    --yellow-dark : #f39c12;
+    /* ORANGE */
+    --orange : #e67e22;
+    --orange-dark : #d35400;
+    /* RED */
+    --red : #e74c3c;
+    --red-dark : #c0392b;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
