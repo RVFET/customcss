@@ -41,5 +41,12 @@ html {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: Maven;
+    font-family: 'Maven Pro';
+    list-style: none;
+    text-decoration: none;
+    outline: none;
+}
+
+button,a {
+    color: var(--blue);
 }
